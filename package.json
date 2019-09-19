@@ -1,5 +1,5 @@
 {
-  "name": "tagml-jupyterlab-extension",
+  "name": "tagml-extension",
   "version": "1.0.0",
   "description": "Custom syntax highlighting for TAGML",
   "main": "lib/plugin.js",

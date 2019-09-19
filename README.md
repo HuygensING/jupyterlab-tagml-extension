@@ -10,7 +10,7 @@ Custom syntax highlighting for TAGML in the CodeMirror-based editor of jupyterla
 To install using pip:
 
 ```bash
-jupyter labextension install tagml-jupyterlab-extension
+jupyter labextension install tagml-extension
 ```
 
 ## Development
