@@ -2,19 +2,22 @@
   "name": "tagml-extension",
   "version": "1.0.0",
   "description": "Custom syntax highlighting for TAGML",
-  "main": "lib/plugin.js",
-  "repository": "https://github.com/brambg/tagml-jupyterlab-extension.git",
-  "author": "Bram Buitendijk <bram.buitendijk@di.huc.knaw.nl>",
   "keywords": [
     "jupyter",
     "jupyterlab",
     "jupyterlab-extension"
   ],
+  "homepage": "https://github.com/brambg/tagml-jupyterlab-extension",
+  "bugs": {
+    "url": "https://github.com/brambg/tagml-jupyterlab-extension/issues"
+  },
   "license": "Apache-2.0",
+  "author": "Bram Buitendijk <bram.buitendijk@di.huc.knaw.nl>",
+  "main": "lib/plugin.js",
   "jupyterlab": {
     "extension": true
   },
-  "dependencies": {
-    "codemirror": "^5.48.4"
-  }
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
 }

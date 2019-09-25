@@ -1,0 +1,13 @@
+warning:
+Failed to fetch package metadata for 'jupyterlab_tagml_extension': <HTTPError 404: 'Not Found'>
+is because this package is not registered yet. This can be ignored.
+
+use `--log-level='DEBUG'` to add debug messages to log
+use `--no-browser` to skip automatically starting browser after `jupyter lab`
+
+example at
+https://jupyterlab.readthedocs.io/en/stable/developer/extension_tutorial.html#extension-tutorial
+
+uses https://github.com/jupyterlab/extension-cookiecutter-ts template for cookiecutter (typescript)
+there's also a js version: https://github.com/jupyterlab/extension-cookiecutter-js
+
