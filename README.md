@@ -1,4 +1,4 @@
-# tagml-jupyterlab-extension
+# jupyterlab-tagml-extension
 Custom syntax highlighting for TAGML in the CodeMirror-based editor of jupyterlab
 
 ## Prerequisites
