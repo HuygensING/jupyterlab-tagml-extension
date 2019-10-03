@@ -1,5 +1,6 @@
 *.iml
 .idea
+.vs
 *.bundle.*
 node_modules/
 *.egg-info/
